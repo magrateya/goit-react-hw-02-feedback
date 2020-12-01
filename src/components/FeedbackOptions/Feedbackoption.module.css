@@ -7,3 +7,6 @@
   outline: none;
   transition: all 250ms linear;
 }
+.container button {
+  padding: 5px 20px;
+}
